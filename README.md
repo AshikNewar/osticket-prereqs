@@ -15,9 +15,6 @@
 
 - Windows 10 Pro
 
-<h2>Files to use for installation</h2>
-
-- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 -----
 
