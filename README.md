@@ -205,4 +205,4 @@ Congratulations! You've made it through a complicated task of installing a help 
 
 -----
 
-# [Next: osTicket - Post Installation Setup (Part 2)](https://github.com/anumkhanit/post-install-config)
+
