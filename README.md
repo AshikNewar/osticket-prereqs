@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation </h1>
+<h1>osTicket - Prerequisites and Installation (Part 1)</h1>
 <p>In this installation tutorial, I will walk you through what you need and how to set up osTicket, an open-source help desk ticketing system. With some notes and screenshots to give you a quick peek at the important stuff.</p>
 
 <h2>Environments and Technologies Used</h2>
@@ -15,6 +15,9 @@
 
 - Windows 10 Pro
 
+<h2>Files to use for installation</h2>
+
+- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 -----
 
@@ -201,5 +204,3 @@
 Congratulations! You've made it through a complicated task of installing a help desk software by scratch! Now that the osTicket is installed with no errors. You can access your help desk login page at http://localhost/osTicket/scp/login.php. Along with the End Users osTicket URL: http://localhost/osTicket/ you will use for another lesson.
 
 -----
-
-
